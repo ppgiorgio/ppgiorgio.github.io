@@ -1,0 +1,40 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-1-28 13:6:5",
+  "loopSlideshow" : 0,
+  "filename" : "ETSAG fasi 28 6",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "ETSAG fasi 28 6",
+  "showMode" : 2,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "28C2CEC4-A85C-4246-8ECC-1CB61D5F6A2A",
+    "EE4641D9-CEAD-47F8-A91F-FB09C1A6001C",
+    "2C79C313-4CD1-4FB0-B5F9-E28B1710467A",
+    "C5DCD0B8-3C81-49B2-B2E1-8F2293138AC2",
+    "63761D6D-FBAF-4B4E-8D92-D4204B6EC415",
+    "3F4CD21E-3F05-42F0-8593-F2F211B489DA"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 3000,
+  "slideHeight" : 2000,
+  "slideCount" : 6,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Helvetica-Light",
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue",
+    "HelveticaNeue-Thin",
+    "Helvetica",
+    "HelveticaNeue-Italic",
+    "GillSans",
+    "HelveticaNeue-Medium"
+  ]
+} )
